@@ -14,6 +14,7 @@ import DressCode from "./components/DressCode/DressCode"
 import Gifts from "./components/Gifts/Gifts"
 import RSVP from "./components/RSVP/RSVP"
 import Closing from "./components/Closing/Closing"
+import "./styles/invitation.css"
 
 import music from "./assets/musica.mp3"
 
