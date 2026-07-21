@@ -1,16 +1,16 @@
 const invitation = {
   // Datos usados por Welcome.jsx
-  name: "Valentina",
+  name: "Sofia",
   eventName: "Mis XV años",
   dateLabel: "21 de noviembre de 2026",
 
   // Datos principales de la quinceañera
   quinceanera: {
-    nombre: "Valentina",
+    nombre: "Sofia",
 
-    nombreCompleto: "Valentina Hernández García",
+    nombreCompleto: "Sofia shalala shalala",
 
-    inicial: "V",
+    inicial: "S",
 
     frasePrincipal:
       "Una noche mágica, un sueño cumplido y un recuerdo para toda la vida.",
